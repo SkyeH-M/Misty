@@ -178,3 +178,7 @@ padding: 50px 0 20px;
   width: 50%;
   margin: auto;
 }
+
+.credits {
+  font-size= 10px !important;
+}
